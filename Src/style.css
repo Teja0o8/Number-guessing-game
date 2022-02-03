@@ -1,0 +1,31 @@
+
+    html {
+      font-family: sans-serif;
+    }
+
+    body {
+      width: 50%;
+      max-width: 800px;
+      min-width: 480px;
+      margin: 0 auto;
+    }
+    h1, .form{
+      padding: 10px;
+    }
+    .lastResult {
+      color: white;
+      padding: 3px;
+    }
+    .box{
+      background: wheat;
+      border-radius: 10px;
+    }
+    .box,button{
+      position: relative;
+      top: 100px;
+    }
+    button{
+      top: 85px;
+      background-color: lightgreen;
+      border-radius: 5px;
+    }
