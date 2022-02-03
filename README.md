@@ -3,4 +3,5 @@ program have selected a random number between 1 and 100. see if you can guess it
 
 click the below link to view the program
 
-https://teja0o8.github.io/number-guessing-game/src/
+<a href="https://teja0o8.github.io/number-guessing-game/src/" target="_blank" >https://teja0o8.github.io/number-guessing-game/src/</a>
+
